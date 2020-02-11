@@ -1,0 +1,347 @@
+body {margin: 0;
+font-family: "Quicksand", sans-serif;
+background-color:#D99C7A;
+}
+
+#htmlcommentboxdiv {
+ margin-left:50px;
+ margin-right:50px;
+}
+
+a:hover {
+text-shadow:0px 0px 5px #000000;
+  transition-duration: 0.1s;	
+}
+
+#shrekh1 {
+ font-size:50px;
+ text-shadow:2px 2px #DB3F35;
+}
+
+#ytlink {
+ font-size:20px;
+}
+
+#videosh {
+ font-size:30px;
+}
+
+#uv {
+ font-size:20px;
+}
+
+#HCB_comment_box textarea{}
+#HCB_comment_box{font-family:"quicksand",sans-serif;color:#000000;background-color:transparent;}
+#HCB_comment_box p.error{border:1px solid red;background-color:#fee}
+.hcb-mod b{color:#d34}
+#HCB_comment_box textarea,#HCB_comment_box input.text{border-top:1px solid #000000;border-left:1px solid #000000;border-bottom:1px solid #000000;border-right:1px solid #000000;background-color:#ffffff}
+#HCB_comment_box .hcb-wrapper-half{display:block;width:50%;float:left}
+#HCB_comment_box .hcb-wrapper{clear:both}
+#HCB_comment_box input.text{display:block;width:97%}
+#HCB_comment_box input.submit{border-top:1px solid #eee;border-left:1px solid #eee;border-bottom:1px solid #000000;border-right:1px solid #000000;background-color:#ccc;color:#666;font-weight:700;cursor:pointer}
+#HCB_comment_box span.home-desc{font-size:15px;opacity:1}
+#HCB_comment_box div.comment{border-bottom:1px dotted #eee;margin-bottom:5px}
+.hcb-mod i{color:#00008b}
+
+
+#commentmargin {
+ margin-left:50px;
+ margin-right:50px;
+}
+
+.indexh2 {
+ font-size: 30px;
+}
+
+.indexbody {
+ font-size: 20px;
+}
+
+#auzzieg {
+overflow:auto;
+position:absolute;
+width:500px;
+height:500px;
+left:550px;
+top:180px;
+}
+
+#auzzietitle {
+ font-size:45px;
+}
+
+#auzzielist {
+ font-size:30px;
+}
+#bakerc {
+overflow:auto;
+position:absolute;
+width:500px;
+height:500px;
+left:550px;
+top:635px;
+}
+
+#bakertitle {
+ font-size:45px;
+}
+
+#bakerlist {
+ font-size:30px;
+}
+
+#jamesbond {
+overflow:auto;
+position:absolute;
+width:500px;
+height:500px;
+left:550px;
+top:1100px;
+}
+
+#bondtitle {
+ font-size:45px;
+}
+
+#bondlist {
+ font-size:30px;
+}
+
+#pastasauce {
+overflow:auto;
+position:absolute;
+width:500px;
+height:500px;
+left:550px;
+top:1550px;
+}
+
+#pastatitle {
+ font-size:45px;
+}
+
+#pastalist {
+ font-size:30px;
+}
+
+.transparent {
+ color:transparent;
+}
+
+a {
+ color:#AA291E;
+ text-shadow:2px 2px transparent;
+}
+h1 {
+ font-family: "Pacifico", cursive;
+ font-weight:normal;
+ text-shadow:2px 2px #DB3F35;
+}
+
+#mrnorthtitle {
+ font-family: "Pacifico", cursive;
+ font-weight:normal;
+ font-size:20px;
+}
+
+#uv {
+ margin-left:34%;
+}
+
+#videosh {
+ margin-left:35%;
+}
+
+#contactform {
+ margin-left:75px;
+}
+
+iframe {
+ position:absolute;
+ left:25%;
+}
+
+#shrekpicleft {
+ position:fixed;
+ left:5%;
+}
+
+#shrekpicleft:hover {
+ box-shadow: 0px 0px 7px black;
+ text-shadow: 0px 0px 0px transparent;
+ transition-duration: 0.3s;
+}
+
+#flip {
+ position:fixed;
+ right:5%;
+
+}
+
+#flip:hover {
+ box-shadow: 0px 0px 7px black;
+ text-shadow: 0px 0px 0px transparent;
+ transition-duration: 0.3s;
+}
+
+.mrnorthpics {
+	border:40px gray ridge;
+	text-align:center;
+	font-size:35px;
+}
+	
+.teachers {
+	padding:75px;
+}
+#fried {
+  position: absolute;
+  top: 150px;
+  left: 50px;
+  width: 400px;
+}
+
+#gaesser {
+	float:right; 
+	margin-right:50px;
+	margin-top:75px;
+}
+#chilis {
+	float:left; 
+	margin-left:50px;
+	margin-top:75px;
+}
+
+.teacherimg {
+	border:25px gray ridge;
+}
+.teacherheader {
+	text-decoration: underline;
+	text-align: center;
+	
+}
+
+.teacherlist {
+	text-align: auto;
+	list-style:normal;
+	padding-right:6px;
+}
+
+.aboutmrnorth {
+   margin-left:500px;
+   border-bottom:10px solid;
+   padding:10px;
+   text-align:left;
+   font-size:45px;
+}
+h1 {
+text-align:center;
+}
+h2 {
+   margin-left:500px;
+}
+
+h3 {
+   margin-left:00px;
+}
+form {
+   margin-left:500px;
+}			
+.list {
+   margin-left:500px;
+}
+.info {
+   margin-left:500px;	
+} 
+
+#yes {
+  display: block;
+  color: #000; /* Black */
+  padding: 8px 16px;
+  text-decoration: none;
+  margin-left: 25px;
+  margin-top:1.25%;
+  font-size:25px;
+  border:0px;
+}
+#yes:hover:not(.active){
+  background-color:transparent;}
+
+/* Navigation Bar */
+ul.sidenav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  background-color: #DB3F35; /* NavBarBackground */
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+  
+}
+
+ul.sidenav li a {
+  display: block;
+  color: #000; /* Black */
+  padding: 8px 16px;
+  text-decoration: none;
+  margin-left: 25px;
+  margin-top:12px;
+  font-size:25px;
+  border:3px black solid;
+}
+ 
+ul.sidenav li a.active { 
+  background-color: transparent; /* Mr. North */
+  color: black;
+  font-size: 40px;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-left:10px;
+  margin-right: 75px;
+  border:0px;
+}
+
+ul.sidenav li a:hover:not(.active) {
+  background-color: #D99C7A; /* LightRed Hover*/
+  color: #AA291E;
+  box-shadow: 0px 0px 7px black;
+  text-shadow: 0px 0px 0px transparent;
+  transition-duration: 0.3s;
+}
+
+ul.sidenav li a.navbar {
+  background-color: #D99C7A; /* LightRed Hover*/
+  color: #AA291E;
+  box-shadow: 0px 0px 7px black;
+  text-shadow: 0px 0px 0px transparent;
+  transition-duration: 0.3s;
+}
+
+
+div.content {
+  margin-left: 25%;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+@media screen and (max-width: 9000px) {
+  ul.sidenav {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  
+  ul.sidenav li a {
+    float: left;
+    padding: 15px;
+  }
+  
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  ul.sidenav li a {
+    text-align: center;
+    float: none;
+  }
+/* Navigation Bar End */
